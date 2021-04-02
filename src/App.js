@@ -56,7 +56,7 @@ function App() {
           <Route path="/createnewacc" >
             <CreateNewAccount />
           </Route>
-          <Route path="/react-gh-pages" exact>
+          <Route path="/react-gh-pages">
             <Login />
           </Route>
         </Switch>
