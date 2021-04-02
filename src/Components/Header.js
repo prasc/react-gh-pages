@@ -9,7 +9,7 @@ import {
 const Header = () => {
     return (
         <div>
-            <Link to="/home"><img src={home} width="100" height="100"/></Link>  
+            <Link to="/react-gh-pages"><img src={home} width="100" height="100"/></Link>  
             <Link to="/home"><h1 class="hireter">Hire-ter</h1></Link>
         </div>
     )
